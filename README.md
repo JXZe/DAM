@@ -2,12 +2,12 @@ DAM: Deliberation, Abandon and Memory Networks for Generating Detailed and Non-r
 ====================================
 
 
-![alt text](image/visual_result.png)
+![alt text](pic/visualize.png)
 <p align="center">Example results from the VisDial v1.0 validation dataset.</p>
 
 
 
-The PyTorch implementation for “DAM: Deliberation, Abandon and Memory Networks for Generating Detailed and Non-repetitive Responses in Visual Dialogue” will be released soon.
+The PyTorch implementation for “DAM: Deliberation, Abandon and Memory Networks for Generating Detailed and Non-repetitive Responses in Visual Dialogue” (IJCAI2020) will be released soon.
 
 If you use this code in your research, please consider citing:
 

@@ -7,7 +7,7 @@ DAM: Deliberation, Abandon and Memory Networks for Generating Detailed and Non-r
 
 
 
-The PyTorch implementation for “DAM: Deliberation, Abandon and Memory Networks for Generating Detailed and Non-repetitive Responses in Visual Dialogue” (IJCAI2020) will be released soon.
+The PyTorch implementation for “[DAM: Deliberation, Abandon and Memory Networks for Generating Detailed and Non-repetitive Responses in Visual Dialogue](https://arxiv.org/abs/2007.03310)” (IJCAI2020) will be released soon.
 
 If you use this code in your research, please consider citing:
 
